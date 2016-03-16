@@ -1,0 +1,42 @@
+{
+  "name": "mielmonasterio",
+  "version": "1.0.0",
+  "description": "Front",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kefala/mielmonasterio"
+  },
+  "author": "Kefala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kefala/mielmonasterio/issues"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "homepage": "http://mielmonasterio.com.ar",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "angular": "^1.5.0",
+    "angular-loading-bar": "^0.8.0",
+    "angular-material": "^1.0.5",
+    "angular-route": "^1.5.0",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean": "latest",
+    "gulp-concat": "latest",
+    "gulp-jshint": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-minify-html": "latest",
+    "gulp-order": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "run-sequence": "latest",
+    "ui-router": "^1.0.0-alpha0",
+    "underscore ": "^1.8.3"
+  }
+}
